@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Mrs. Checo’s 6th Grade Literacy Studio</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f6f8fb; color: #222; }
+    header { background: #2b6cb0; color: #fff; padding: 24px; }
+    nav a { color: #fff; margin-right: 16px; text-decoration: none; font-weight: bold; }
+    main { max-width: 960px; margin: 24px auto; padding: 0 16px; }
+    .card { background: #fff; border-radius: 12px; padding: 16px; margin-bottom: 16px; box-shadow: 0 4px 10px rgba(0,0,0,.06); }
+    footer { text-align: center; padding: 24px; color: #666; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mrs. Checo’s 6th Grade Literacy Studio</h1>
+    <nav>
+      <a href="#resources">Resources</a>
+      <a href="#booklets">Booklets</a>
+      <a href="#parents">Family Corner</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="resources" class="card">
+      <h2>Class Resources</h2>
+      <p>Find weekly assignments, reading passages, and practice resources for 6th grade ELA.</p>
+    </section>
+
+    <section id="booklets" class="card">
+      <h2>Student Booklets</h2>
+      <p>Leveled reading booklets and standards-based practice will be posted here.</p>
+    </section>
+
+    <section id="parents" class="card">
+      <h2>Family Corner</h2>
+      <p>Important updates, expectations, and tips for supporting literacy at home.</p>
+    </section>
+
+    <section id="contact" class="card">
+      <h2>Contact</h2>
+      <p>Email: yourname@school.org</p>
+      <p>Office Hours: TBD</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Mrs. Checo | Built with GitHub Pages</p>
+  </footer>
+</body>
+</html>
